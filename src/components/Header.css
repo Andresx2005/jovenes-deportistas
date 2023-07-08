@@ -1,0 +1,25 @@
+header {
+  background-color: #FFA500;
+  color: #834416;
+  text-align:start;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+
+}
+
+*{
+  margin: 0%;
+}
+
+img {
+  width: 16%;
+  display: inline;
+  margin-top: -1%;
+}
+
+h1 {
+  font-size: 400%;
+  display: inline;
+  margin-top: 3.7%;
+}

@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: start;
+    background-color: #df850f;
+    font-size: 20px;
+    padding: 0.26%;
+    padding-left: 15%;
+}
+  
+  .navbar ul {
+      display: flex;
+      list-style-type: none;
+  }
+  
+  .navbar li {
+    padding: 0px 15px 7px 15px;
+    border-radius: 4px;
+    font-size: 22px;
+  }
+
+  .navbar li:hover {
+    background-color: #c9770c;
+  }
+  
+  .navbar p {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
